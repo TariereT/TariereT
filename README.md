@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TariereT
+- 👋 Hi, I’m @Tarieret
 - 👀 I’m interested in data analytics and data science 
 - 🌱 I’m currently learning python and R
 - 💞️ I’m looking to collaborate on projects
