@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Tariere
-- 👀 I’m interested in data analytics and data science 
-- 🌱 I’m currently learning python and R
-- 💞️ I’m looking to collaborate on projects
+- 👋 Hello, I’m Tariere
+- 👀 I’m a Master's student interested in data science and analysis
+- 💞️ Currently looking to collaborate on projects
 - 📫 How to reach me: tarieretimitimi@gmail.com
 
 <!---
